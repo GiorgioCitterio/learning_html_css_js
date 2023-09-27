@@ -8,5 +8,5 @@
     "terminal.integrated.fontFamily": "D2Coding",
     "editor.wordWrap": "on",
     "files.autoSave": "afterDelay",
-    "files.autoSaveDelay": 5000
+    "files.autoSaveDelay": 500
 }
